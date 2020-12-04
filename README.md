@@ -13,5 +13,5 @@ git pull -> pulling changes from an existing repository.
 
 ## git branch
 
-git checkout -> to create a branch or even switching between branches
+git checkout -> to create a branch or even switching between branches.
 git merge <branch-name> -> be at the _master branch_ then merge your branches...
